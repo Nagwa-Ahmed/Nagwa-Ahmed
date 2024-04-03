@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**✨I'm Nagwa Ahmed ✨** 
+### **✨I'm Nagwa Ahmed ✨** 
 
  - 🔭 I’m currently a Data Sciece Trainee @ Information Technology Institute
  - 🌱 I’m a graduate of the faculty of Economics and Political Science- Statistics Department
