@@ -9,7 +9,7 @@
 
  - 🔭 Currently a Data Sciece Trainee @ Information Technology Institute
  - 🌱 I’m a graduate of the Faculty of Economics and Political Science- Statistics Department
- - :handshake: Looking to collaborate on Data science projects either using Python or R
+ - :handshake: Looking to collaborate on data science projects either using Python or R
  - :e-mail: How to reach me: Feel free to reach out to me via email: nagwa.ahmed419@gmail.com 
 
 
